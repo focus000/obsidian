@@ -50,7 +50,8 @@ in centralized transaction model, we need believe bank will correct update ledge
 	- miner verify:
 		1. user is the owner of addr1
 			- user know the private key of addr1, so we need user give a sign by addr1 private key, and others can use public key verify it, hence we need user provide signature, address of unspent transaction; and the sig need pair with pubkey in the address of unspent transaction.
-		2. user has enough 
+		2. user has enough bitcoin to afford
+			- miner verify 
 
 
 ---
