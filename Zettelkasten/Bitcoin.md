@@ -53,7 +53,8 @@ in centralized transaction model, we need believe bank will correct update ledge
 		2. user has enough bitcoin to afford
 			- miner verify it from UTXO
 		3. user not double spent
-			
+			- miner verify it from UTXO
+			- since it may have bad miner 
 
 
 ---
