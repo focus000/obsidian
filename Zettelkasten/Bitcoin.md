@@ -49,7 +49,7 @@ in centralized transaction model, we need believe bank will correct update ledge
 	- user broadcast address1 transfer some value to address2
 	- miner verify:
 		1. user is the owner of addr1
-			- user know the private key of addr1, so we need user give a sign by addr1 private key, and others can use public key verify it, hence we need user provide signature, address of unspent transaction 
+			- user know the private key of addr1, so we need user give a sign by addr1 private key, and others can use public key verify it, hence we need user provide signature, address of unspent transaction; and the sig need pair with pubkey in 
 		2. user has 
 
 
