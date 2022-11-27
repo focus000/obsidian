@@ -8,10 +8,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87d05aa9254a215e",
+            "id": "649a16221059f218",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
+              "type": "graph",
               "state": {}
             }
           }
@@ -58,7 +58,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6f4bef2ff0b5c59d",
@@ -102,9 +103,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "87d05aa9254a215e",
+  "active": "649a16221059f218",
   "lastOpenFiles": [
     "Zettelkasten/Bitcoin.md",
+    "Zettelkasten/side gigs.md",
     "Publications/Resume-zh.md",
     "Excalidraw/transaction-with-bank.excalidraw.md",
     "Excalidraw/Drawing 2022-11-27 19.25.15.excalidraw.md",
@@ -112,7 +114,6 @@
     "memos/2022-11-25.md",
     "Excalidraw/Drawing 2022-11-25 01.26.07.excalidraw.md",
     "Zettelkasten/Blockchain Full Node Size Too Big.md",
-    "Zettelkasten/Decentralize.md",
-    "memos/2022-11-20.md"
+    "Zettelkasten/Decentralize.md"
   ]
 }
