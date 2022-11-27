@@ -1,0 +1,11 @@
+{
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "Files",
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "spellcheck": true
+}
