@@ -100,6 +100,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "93569f5e3415b278",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
