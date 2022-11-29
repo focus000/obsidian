@@ -54,7 +54,7 @@ in centralized transaction model, we need believe bank will correct update ledge
 			- miner verify it from UTXO
 		3. user not double spent
 			- miner verify it from UTXO
-			- since it may have bad miner not verify 
+			- since it may have bad miner publish unverified block, we need 
 
 
 ---
