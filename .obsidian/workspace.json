@@ -20,7 +20,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4e8f3e897366afab",
+  "active": "d95d935480eabe7c",
   "lastOpenFiles": [
     "Zettelkasten/Bitcoin.md",
     "Zettelkasten/Blockchain Full Node Size Too Big.md",
