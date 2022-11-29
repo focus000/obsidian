@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e60cbbf4b491a5fd",
+        "id": "970bc47792eedacb",
         "type": "tabs",
         "children": [
           {
-            "id": "649a16221059f218",
+            "id": "56a104580199ccc0",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -116,7 +116,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "649a16221059f218",
+  "active": "56a104580199ccc0",
   "lastOpenFiles": [
     "Zettelkasten/Bitcoin.md",
     "Zettelkasten/Blockchain Full Node Size Too Big.md",
