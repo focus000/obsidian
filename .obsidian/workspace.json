@@ -60,6 +60,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "8972c77d799118fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93569f5e3415b278",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettelkasten/Bitcoin.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,25 +116,15 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "93569f5e3415b278",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Zettelkasten/Bitcoin.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "93569f5e3415b278",
+  "active": "649a16221059f218",
   "lastOpenFiles": [
     "Zettelkasten/Blockchain Full Node Size Too Big.md",
     "Zettelkasten/Bitcoin.md",
