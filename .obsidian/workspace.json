@@ -106,17 +106,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Bitcoin.md"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6341fd249b38e805",
+  "active": "93569f5e3415b278",
   "lastOpenFiles": [
     "Zettelkasten/Blockchain Full Node Size Too Big.md",
     "Zettelkasten/Bitcoin.md",
