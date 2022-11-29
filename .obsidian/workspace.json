@@ -11,13 +11,8 @@
             "id": "649a16221059f218",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Bitcoin.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "memos_view",
+              "state": {}
             }
           }
         ],
@@ -70,9 +65,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettelkasten/Bitcoin.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -95,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Bitcoin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +118,8 @@
   },
   "active": "649a16221059f218",
   "lastOpenFiles": [
-    "Zettelkasten/Blockchain Full Node Size Too Big.md",
     "Zettelkasten/Bitcoin.md",
+    "Zettelkasten/Blockchain Full Node Size Too Big.md",
     "Zettelkasten/side gigs.md",
     "Publications/Resume-zh.md",
     "Excalidraw/transaction-with-bank.excalidraw.md",
