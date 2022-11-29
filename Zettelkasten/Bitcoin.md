@@ -54,7 +54,7 @@ in centralized transaction model, we need believe bank will correct update ledge
 			- miner verify it from UTXO
 		3. user not double spent
 			- miner verify it from UTXO
-- Note that, all the information not stored on [[blockchain]] must can be derived 
+- Note that, all the information not stored on [[blockchain]] must can be derived by the information on [[blockchain]]
 
 
 ---
