@@ -22,7 +22,9 @@ struct block {
 	std::string hash_of_pre_node;
 }
 ```
-block stored in k-v database like [[leveldb]], witch key is hash of block, and 
+block stored in k-v database like [[leveldb]], witch key is hash of block.
+
+Since 
 
 ---
 # References
