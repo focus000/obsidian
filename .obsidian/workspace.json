@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "77ea2cce060b8262",
+            "id": "ead78b8310300db8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memos/2022-11-30.md",
+                "file": "Zettelkasten/collector.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,7 +29,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -80,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memos/2022-11-30.md"
+                "file": "Zettelkasten/collector.md"
               }
             }
           }
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "memos/2022-11-30.md",
+                "file": "Zettelkasten/collector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +132,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "77ea2cce060b8262",
+  "active": "4e8f3e897366afab",
   "lastOpenFiles": [
+    "memos/2022-11-30.md",
     "memos/2022-11-20.md",
     "memos/2022-12-01.md",
     "Zettelkasten/blockchain.md",
@@ -143,7 +143,6 @@
     "Zettelkasten/side gigs.md",
     "Publications/Resume-zh.md",
     "Excalidraw/transaction-with-bank.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-27 19.25.15.excalidraw.md",
-    "memos/2022-11-27.md"
+    "Excalidraw/Drawing 2022-11-27 19.25.15.excalidraw.md"
   ]
 }
