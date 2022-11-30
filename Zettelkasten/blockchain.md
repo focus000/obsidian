@@ -6,7 +6,7 @@ Tags:
 
 # blockchain
 
-Blockchain is a link-table 
+Blockchain is a link-table replace pointer to hash pointer
 
 ---
 # References
