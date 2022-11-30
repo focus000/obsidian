@@ -6,7 +6,7 @@ Tags:
 
 # blockchain
 
-
+Blockchain is a link-table 
 
 ---
 # References
