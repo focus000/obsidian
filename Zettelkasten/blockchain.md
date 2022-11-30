@@ -24,7 +24,7 @@ struct block {
 ```
 block stored in k-v database like [[leveldb]], witch key is hash of block.
 
-Since there is hash pointer, we can't break the order of blocks
+Since there is hash pointer, we can't break the order of blocks, like we can't break the time order, 
 
 ---
 # References
