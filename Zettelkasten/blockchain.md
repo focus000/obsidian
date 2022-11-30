@@ -18,6 +18,8 @@ struct node {
 //block
 <typename T>
 struct block {
+	T data;
+	uint32_t id;
 	
 }
 ```
