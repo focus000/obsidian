@@ -8,9 +8,11 @@ Tags:
 
 Blockchain is a link-table replace pointer to hash pointer.
 ```cpp
+<typename T>
 struct node {
-	
-}
+	T data;
+	node *pre;
+};
 ```
 
 ---
