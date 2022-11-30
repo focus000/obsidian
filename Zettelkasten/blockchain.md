@@ -6,7 +6,10 @@ Tags:
 
 # blockchain
 
-Blockchain is a link-table replace pointer to hash pointer
+Blockchain is a link-table replace pointer to hash pointer.
+```cpp
+struct node
+```
 
 ---
 # References
