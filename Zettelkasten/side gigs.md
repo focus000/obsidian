@@ -1,5 +1,5 @@
 why need side gigs
-1. letquit main job easier
+1. let quit main job easier
 2. create my own value
 3. discover what I really want to do
 
