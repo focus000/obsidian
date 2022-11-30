@@ -11,9 +11,17 @@
             "id": "4e8f3e897366afab",
             "type": "leaf",
             "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "77ea2cce060b8262",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/blockchain.md",
+                "file": "memos/2022-11-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +29,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -71,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/blockchain.md"
+                "file": "memos/2022-11-30.md"
               }
             }
           }
@@ -95,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/blockchain.md",
+                "file": "memos/2022-11-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +133,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4e8f3e897366afab",
+  "active": "77ea2cce060b8262",
   "lastOpenFiles": [
+    "memos/2022-11-20.md",
+    "memos/2022-12-01.md",
+    "Zettelkasten/blockchain.md",
     "Zettelkasten/Bitcoin.md",
     "Zettelkasten/Blockchain Full Node Size Too Big.md",
     "Zettelkasten/side gigs.md",
     "Publications/Resume-zh.md",
     "Excalidraw/transaction-with-bank.excalidraw.md",
     "Excalidraw/Drawing 2022-11-27 19.25.15.excalidraw.md",
-    "memos/2022-11-27.md",
-    "memos/2022-11-25.md",
-    "Excalidraw/Drawing 2022-11-25 01.26.07.excalidraw.md",
-    "Zettelkasten/Decentralize.md"
+    "memos/2022-11-27.md"
   ]
 }
