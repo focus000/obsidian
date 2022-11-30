@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Bitcoin.md",
-                "mode": "preview",
+                "file": "Zettelkasten/blockchain.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Bitcoin.md"
+                "file": "Zettelkasten/blockchain.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Bitcoin.md",
+                "file": "Zettelkasten/blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d95d935480eabe7c",
+  "active": "4e8f3e897366afab",
   "lastOpenFiles": [
     "Zettelkasten/Bitcoin.md",
     "Zettelkasten/Blockchain Full Node Size Too Big.md",
