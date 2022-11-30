@@ -20,7 +20,7 @@ struct node {
 struct block {
 	T data;
 	uint32_t id;
-	
+	std::string hash_of_pre_node;
 }
 ```
 
