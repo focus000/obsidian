@@ -11,13 +11,8 @@
             "id": "ea7491a2ac022159",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Bitcoin.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "memos_view",
+              "state": {}
             }
           }
         ],
@@ -70,9 +65,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettelkasten/Bitcoin.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -95,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Bitcoin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,9 +118,9 @@
   },
   "active": "ea7491a2ac022159",
   "lastOpenFiles": [
+    "Zettelkasten/Bitcoin.md",
     "Zettelkasten/blockchain.md",
     "Zettelkasten/Blockchain Full Node Size Too Big.md",
-    "Zettelkasten/Bitcoin.md",
     "memos/2022-11-20.md",
     "Files/Pasted image 20221201011338.png",
     "Excalidraw/Drawing 2022-11-25 01.26.07.excalidraw.md",
