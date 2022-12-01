@@ -6,7 +6,7 @@ Tags:
 
 # consensus
 
-strict definition need 
+For 
 
 ---
 # References
