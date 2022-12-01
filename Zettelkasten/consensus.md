@@ -6,7 +6,7 @@ Tags:
 
 # consensus
 
-For 
+For [[Decentralize|decentralized]], we need multiple client 
 
 ---
 # References
