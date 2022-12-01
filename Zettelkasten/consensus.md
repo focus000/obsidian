@@ -6,7 +6,7 @@ Tags:
 
 # consensus
 
-For [[Decentralize|decentralized]], we need multiple client 
+For [[Decentralize|decentralized]], we need multiple client run [[blockchain]], there is a problem  
 
 ---
 # References
