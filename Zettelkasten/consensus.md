@@ -15,7 +15,7 @@ while too long will reduce transparent speed. Hence the algorithm will adjust th
 
 ## PoS
 
-
+Since PoW calculate hash is nonsense,  
 
 ---
 # References
