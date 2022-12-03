@@ -10,7 +10,7 @@ For [[Decentralize|decentralized]], we need multiple client run [[blockchain]], 
 
 ## PoW
 
-
+device 
 
 ---
 # References
