@@ -14,7 +14,9 @@ device change nonce in block header to calculate hash, if the hash in target set
 while too long will reduce transparent speed. Hence the algorithm will adjust the difficulty depend on the last block genesis time.
 
 pros:
-- let 
+- let idle power transfer to profit
+
+
 
 ## PoS
 
