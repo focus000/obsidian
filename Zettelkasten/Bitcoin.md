@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags: [[Web3]]
+Tags: [[blockchain]]
 
 # Bitcoin
 
