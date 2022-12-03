@@ -16,7 +16,8 @@ while too long will reduce transparent speed. Hence the algorithm will adjust th
 pros:
 - let idle power transfer to profit
 
-
+cons:
+- 
 
 ## PoS
 
