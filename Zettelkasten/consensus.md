@@ -15,7 +15,7 @@ while too long will reduce transparent speed. Hence the algorithm will adjust th
 
 ## PoS
 
-Since PoW calculate hash is nonsense, we proposed to avoid waste power. PoW is make profit transfer to crypto curr 
+Since PoW calculate hash is nonsense, we proposed to avoid waste power. PoW is make profit transfer to crypto currency by calculate hash, while PoS is  
 
 ---
 # References
