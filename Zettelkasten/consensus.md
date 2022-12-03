@@ -21,7 +21,7 @@ cons:
 
 ## PoS
 
-Since PoW calculate hash is nonsense, we proposed to avoid waste power. PoW is make profit transfer to crypto currency by calculate hash, while PoS is staking coins
+Since PoW calculate hash is nonsense, we proposed to avoid waste power. PoW is make profit transfer to crypto currency by calculate hash, while PoS is staking coins. If stacker  
 
 ---
 # References
