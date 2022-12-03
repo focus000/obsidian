@@ -29,7 +29,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -133,7 +132,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "820c23119f4ebf66",
+  "active": "ea7491a2ac022159",
   "lastOpenFiles": [
     "Zettelkasten/Bitcoin.md",
     "Zettelkasten/blockchain.md",
