@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/blockchain.md",
+                "file": "Zettelkasten/Ethereum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/blockchain.md"
+                "file": "Zettelkasten/Ethereum.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/blockchain.md",
+                "file": "Zettelkasten/Ethereum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,14 +127,14 @@
   "active": "820c23119f4ebf66",
   "lastOpenFiles": [
     "Zettelkasten/Bitcoin.md",
+    "Zettelkasten/Ethereum.md",
+    "Zettelkasten/blockchain.md",
     "Zettelkasten/consensus.md",
     "memos/2022-11-30.md",
-    "Zettelkasten/blockchain.md",
     "Zettelkasten/Blockchain Full Node Size Too Big.md",
     "memos/2022-11-20.md",
     "Files/Pasted image 20221201011338.png",
     "Excalidraw/Drawing 2022-11-25 01.26.07.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-27 19.25.15.excalidraw.md",
-    "Excalidraw/transaction-with-bank.excalidraw.md"
+    "Excalidraw/Drawing 2022-11-27 19.25.15.excalidraw.md"
   ]
 }
