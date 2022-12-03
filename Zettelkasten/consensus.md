@@ -17,11 +17,11 @@ pros:
 - let idle power transfer to profit
 
 cons:
-- 
+- waste power
 
 ## PoS
 
-Since PoW calculate hash is nonsense, we proposed to avoid waste power. PoW is make profit transfer to crypto currency by calculate hash, while PoS is  
+Since PoW calculate hash is nonsense, we proposed to avoid waste power. PoW is make profit transfer to crypto currency by calculate hash, while PoS is 
 
 ---
 # References
