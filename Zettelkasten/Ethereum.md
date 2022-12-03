@@ -11,7 +11,7 @@ Hence we must note that [[blockchain]] is a tool take value on web. Perhaps [[Ze
 
 ## design of blockchain
 
-todo
+![[Pasted image 20221204011310.png]]
 
 ## consensus
 
