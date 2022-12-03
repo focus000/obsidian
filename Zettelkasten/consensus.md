@@ -10,7 +10,7 @@ For [[Decentralize|decentralized]], we need multiple client run [[blockchain]], 
 
 ## PoW
 
-device 
+device change nonce in block header to calculate hash,   
 
 ---
 # References
