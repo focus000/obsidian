@@ -15,7 +15,7 @@ todo
 
 ## consensus
 
-
+[[consensus#PoS]]
 
 ---
 # References
