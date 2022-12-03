@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "820c23119f4ebf66",
+            "id": "4e266750ff838b99",
             "type": "leaf",
             "state": {
-              "type": "memos_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Ethereum.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -65,7 +70,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Ethereum.md"
+              }
             }
           }
         ]
@@ -88,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Ethereum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +124,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "820c23119f4ebf66",
+  "active": "4e266750ff838b99",
   "lastOpenFiles": [
     "Zettelkasten/Ethereum.md",
     "Zettelkasten/side gigs.md",
