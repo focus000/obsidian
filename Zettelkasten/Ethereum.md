@@ -6,7 +6,7 @@ Tags:
 
 # Ethereum
 
-Unlike [[Bitcoin]], Ethere
+Unlike [[Bitcoin]], Ethereum main to create a [[Decentralize|decentralized]] 
 
 ---
 # References
