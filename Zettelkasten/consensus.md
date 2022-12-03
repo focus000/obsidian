@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: [[blockchain]]
 
 # consensus
 

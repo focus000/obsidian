@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/blockchain.md",
+                "file": "Zettelkasten/Ethereum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/blockchain.md"
+                "file": "Zettelkasten/Ethereum.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/blockchain.md",
+                "file": "Zettelkasten/Ethereum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,11 +126,11 @@
   },
   "active": "820c23119f4ebf66",
   "lastOpenFiles": [
-    "Zettelkasten/Bitcoin.md",
-    "Zettelkasten/blockchain.md",
     "Zettelkasten/Blockchain Full Node Size Too Big.md",
-    "Zettelkasten/consensus.md",
+    "Zettelkasten/blockchain.md",
     "Zettelkasten/Ethereum.md",
+    "Zettelkasten/consensus.md",
+    "Zettelkasten/Bitcoin.md",
     "Zettelkasten/side gigs.md",
     "memos/2022-11-30.md",
     "memos/2022-11-20.md",
