@@ -10,7 +10,7 @@ Layer 2 is a solution to speed up L1, or called L1 scaling. We pertain not go do
 
 ## Rollup
 
-Pack transactions and Merkel tree root update to block, usually update in contract content tree, not execute transactions on chain. Although transactions store on chain, but light node no need 
+Pack transactions and Merkel tree root update to block, usually update in contract content tree, not execute transactions on chain. Although transactions store on chain, but light node no need download it, unless need verify the transaction.
 
 ---
 # References
