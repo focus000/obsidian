@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Ethereum.md",
-                "mode": "preview",
+                "file": "Zettelkasten/Layer 2.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Ethereum.md"
+                "file": "Zettelkasten/Layer 2.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Ethereum.md",
+                "file": "Zettelkasten/Layer 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +126,8 @@
   },
   "active": "260665c60437327b",
   "lastOpenFiles": [
-    "Files/Pasted image 20221204011310.png",
     "Zettelkasten/Ethereum.md",
+    "Files/Pasted image 20221204011310.png",
     "Zettelkasten/side gigs.md",
     "Zettelkasten/Blockchain Full Node Size Too Big.md",
     "Zettelkasten/blockchain.md",
