@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: [[blockchain]]
 
 # Layer 2
 
