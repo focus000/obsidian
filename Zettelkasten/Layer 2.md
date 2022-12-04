@@ -14,3 +14,6 @@ Pack transactions update to block, usually update in contract content tree, not 
 
 ---
 # References
+
+https://research.paradigm.xyz/rollups
+
