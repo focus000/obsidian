@@ -6,7 +6,7 @@ Tags: [[blockchain]]
 
 # Layer 2
 
-Layer 2 is a solution 
+Layer 2 is a solution to speed up L1, or called L1 scaling. We 
 
 ---
 # References
