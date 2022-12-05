@@ -30,6 +30,7 @@ different with optimism: use binary search way in multi turn ask challenger to f
 
 pros:
 - can just verify the fault transaction, hence we pack transactions unlimited by max gas fee
+- can 
 
 ### zkRollup
 
