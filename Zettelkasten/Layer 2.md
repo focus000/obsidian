@@ -26,7 +26,7 @@ cons:
 
 ### Arbitrum
 
-different with optimism: multi turn ask cha 
+different with optimism: use binary search way in multi turn ask challenger where  
 
 ### zkRollup
 
