@@ -38,7 +38,7 @@ cons:
 
 ### zkRollup
 
-use [[Zero Knowledge proof]]
+use [[Zero Knowledge proof]] to proof the transactions is valid.
 
 ### Polygon
 
