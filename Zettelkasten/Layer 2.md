@@ -33,7 +33,8 @@ pros:
 - can better support the composability of smart contracts
 
 cons:
-- need longer 
+- need longer dispute period duration
+- drawer need online 
 
 ### zkRollup
 
