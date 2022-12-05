@@ -1,4 +1,4 @@
-  756g 5v202212042212
+202212042212
 
 Status: #idea
 
@@ -14,7 +14,7 @@ Pack transactions and Merkel tree root update to block, usually update in contra
 
 ### Optimism
 
-optimistic rollup, assume 
+optimistic rollup, there is a 
 
 ### Arbitrum
 
