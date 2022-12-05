@@ -49,8 +49,11 @@ cons:
 
 #### zk-SNARK: Zero-Knowledge Succinct Non-Interactive Argument of Knowledge
 
+pros:
 - no need interact
 - fast verify, low store space
+
+
 
 ### Polygon
 
