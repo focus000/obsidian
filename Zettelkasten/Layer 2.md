@@ -26,7 +26,7 @@ cons:
 
 ### Arbitrum
 
-
+different with optimism: use binary search find the  
 
 ### zkRollup
 
