@@ -14,7 +14,11 @@ Pack transactions and Merkel tree root update to block, usually update in contra
 
 ### Optimism
 
-optimistic rollup, there is a sequencer pack transactions and update chain state, assume most sequencers is trusted. Any sequencer need validate some coins when it upload transactions and state, and there are some challengers verify the packed transactions, if they find any transaction is invalid, the challenger can dispute the transaction and get reward from sequencer validated. Of course, challenger also need validate some coins to avoid chain ddos, and it will burn some coins from validated to avoid the one published the invalid transaction to bring back the coins. We need a dispute period duration let challengers have enough time check transactions, usually need 1 or 2 week.  
+optimistic rollup, there is a sequencer pack transactions and update chain state, assume most sequencers is trusted. Any sequencer need validate some coins when it upload transactions and state, and there are some challengers verify the packed transactions, if they find any transaction is invalid, the challenger can dispute the transaction and get reward from sequencer validated. Of course, challenger also need validate some coins to avoid chain ddos, and it will burn some coins from validated to avoid the one published the invalid transaction to bring back the coins. We need a dispute period duration let challengers have enough time check transactions, usually need 1 or 2 week.
+
+pros:
+
+- simple to implement
 
 ### Arbitrum
 
