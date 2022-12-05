@@ -26,7 +26,7 @@ cons:
 
 ### Arbitrum
 
-different with optimism: use binary search way in multi turn ask challenger where  
+different with optimism: use binary search way in multi turn ask challenger to find the exact invalid trans   
 
 ### zkRollup
 
