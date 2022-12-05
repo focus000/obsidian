@@ -14,7 +14,7 @@ Pack transactions and Merkel tree root update to block, usually update in contra
 
 ### Optimism
 
-optimistic rollup, there is a 
+optimistic rollup, there is a sequencer pack transactions and update chain state, assue
 
 ### Arbitrum
 
