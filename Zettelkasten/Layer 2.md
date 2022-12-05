@@ -34,9 +34,11 @@ pros:
 
 cons:
 - need longer dispute period duration
-- drawer need online 
+- drawer need online support
 
 ### zkRollup
+
+use [[Zero Knowledge proof]]
 
 ### Polygon
 
