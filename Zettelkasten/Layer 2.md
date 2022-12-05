@@ -56,7 +56,7 @@ pros:
 application:
 - Zcash
 - Filecoin
-	- 
+	- prove storage provider copied   
 
 ### Polygon
 
