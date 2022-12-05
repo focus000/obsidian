@@ -47,6 +47,8 @@ pros:
 cons:
 - has weak general computing capabilities
 
+#### zk-SNARK: Zero-Knowledge Succinct Non-Interactive Argument of Knowledge
+
 ### Polygon
 
 ---
