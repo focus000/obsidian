@@ -14,7 +14,7 @@ Pack transactions and Merkel tree root update to block, usually update in contra
 
 ### Optimism
 
-optimistic rollup, there is a sequencer pack transactions and update chain state, assume most sequencers is trusted. Any sequencer need validate some coins when it upload transactions and state, and there are some challengers verify the packed transactions, if they find any transaction is invalid, the challenger can dispute the transaction and get reward, 
+optimistic rollup, there is a sequencer pack transactions and update chain state, assume most sequencers is trusted. Any sequencer need validate some coins when it upload transactions and state, and there are some challengers verify the packed transactions, if they find any transaction is invalid, the challenger can dispute the transaction and get reward from sequencer . Of course, 
 
 ### Arbitrum
 
