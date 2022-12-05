@@ -22,7 +22,7 @@ pros:
 cons:
 - dispute period duration is too long.
 - safety depend on enough challengers.
-- because we need 
+- because we may need verify packed transactions on chain, the size of pack limitr
 
 ### Arbitrum
 
