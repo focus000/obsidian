@@ -22,9 +22,11 @@ pros:
 cons:
 - dispute period duration is too long.
 - safety depend on enough challengers.
-- because we may need verify packed transactions on chain, the size of pack limitr
+- because we may need verify packed transactions on chain, the size of pack limited by max gas fee
 
 ### Arbitrum
+
+
 
 ### zkRollup
 
