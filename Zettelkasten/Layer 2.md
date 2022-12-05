@@ -26,7 +26,10 @@ cons:
 
 ### Arbitrum
 
-different with optimism: use binary search way in multi turn ask challenger to find the exact invalid trans   
+different with optimism: use binary search way in multi turn ask challenger to find the exact invalid transaction to verify.
+
+pros:
+- can just verify the fault transaction, hence f
 
 ### zkRollup
 
