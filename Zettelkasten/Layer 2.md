@@ -29,7 +29,7 @@ cons:
 different with optimism: use binary search way in multi turn ask challenger to find the exact invalid transaction to verify.
 
 pros:
-- can just verify the fault transaction, hence f
+- can just verify the fault transaction, hence we pack transactions unlimited by max gas fee
 
 ### zkRollup
 
