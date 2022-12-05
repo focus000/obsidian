@@ -45,7 +45,7 @@ pros:
 - use principles of cryptography to keep safety
 
 cons:
-- has weak   General Computing Capabilities
+- has weak general computing capabilities
 
 ### Polygon
 
