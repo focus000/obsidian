@@ -53,7 +53,10 @@ pros:
 - no need interact
 - fast verify, low store space
 
-
+application:
+- Zcash
+- Filecoin
+	- 
 
 ### Polygon
 
