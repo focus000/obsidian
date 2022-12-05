@@ -40,6 +40,9 @@ cons:
 
 use [[Zero Knowledge proof]] to proof the transactions is valid.
 
+pros:
+- no need 
+
 ### Polygon
 
 ---
