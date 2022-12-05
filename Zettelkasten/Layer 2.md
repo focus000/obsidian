@@ -62,6 +62,8 @@ application:
 
 #### zkSync
 
+based on zk-SNARKs
+
 ### Polygon
 
 ---
