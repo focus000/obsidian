@@ -42,7 +42,10 @@ use [[Zero Knowledge proof]] to proof the transactions is valid.
 
 pros:
 - no need dispute period duration
-- use principles of cryptography to keep saft
+- use principles of cryptography to keep safety
+
+cons:
+- has weak   General Computing Capabilities
 
 ### Polygon
 
