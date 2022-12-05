@@ -60,6 +60,8 @@ application:
 	- prove storage provider copied data
 	- prove they keep the data in time
 
+#### zkSync
+
 ### Polygon
 
 ---
