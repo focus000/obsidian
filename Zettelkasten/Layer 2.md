@@ -55,8 +55,10 @@ pros:
 
 application:
 - Zcash
+	- impli
 - Filecoin
-	- prove storage provider copied   
+	- prove storage provider copied data
+	- prove they keep the data in time
 
 ### Polygon
 
