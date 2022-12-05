@@ -26,7 +26,7 @@ cons:
 
 ### Arbitrum
 
-different with optimism: use binary search find the  
+different with optimism: multi turn ask cha 
 
 ### zkRollup
 
