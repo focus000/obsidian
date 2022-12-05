@@ -55,7 +55,7 @@ pros:
 
 application:
 - Zcash
-	- impli
+	- implicate input output address and transaction value  
 - Filecoin
 	- prove storage provider copied data
 	- prove they keep the data in time
