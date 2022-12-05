@@ -21,7 +21,8 @@ pros:
 
 cons:
 - dispute period duration is too long.
-- 
+- safety depend on enough challengers.
+- because we need 
 
 ### Arbitrum
 
