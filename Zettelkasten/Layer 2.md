@@ -8,7 +8,8 @@ Tags: [[blockchain]]
 
 Layer 2 is a solution to speed up L1, or called L1 scaling. We pertain not go down safety of blockchain or as L1.
 
-scale is burn 
+scale is imminent
+![[Pasted image 20221207005549.png]]
 
 ## Rollup
 
