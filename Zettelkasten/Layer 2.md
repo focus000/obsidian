@@ -51,7 +51,8 @@ cons:
 
 - based on [[Zero Knowledge proof#zk-SNARK: Zero-Knowledge Succinct Non-Interactive Argument of Knowledge|zk-SNARKs]]
 - Safety based on the trust setup: multi-party computation ceremony
-- EVM compatible: [[Solidity]] contract trans to [[zkEVM]] 
+- EVM compatible: [[Solidity]] contract trans to [[zkEVM]]
+- support both on c
 
 ### Polygon
 
