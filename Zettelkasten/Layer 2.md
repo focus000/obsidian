@@ -56,7 +56,8 @@ cons:
 
 #### StarkWare
 
-- based on 
+- based on [[Zero Knowledge proof#zk-STARK: Scalable Transparent Arguments of Knowledge|zk-STARK]]
+- 
 
 ### Polygon
 
