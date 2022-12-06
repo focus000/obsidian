@@ -49,7 +49,7 @@ cons:
 
 #### zkSync
 
-based on zk-SNARKs
+based on [[Zero Knowledge proof#zk-SNARK: Zero-Knowledge Succinct Non-Interactive Argument of Knowledge|zk-SNARKs]], 
 
 ### Polygon
 
