@@ -70,3 +70,6 @@ cons:
 https://research.paradigm.xyz/rollups
 
 https://www.bilibili.com/video/BV1kP4y197vL/?share_source=copy_web&vd_source=69807ae335823f65b2ae2d890a863b2a
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dukgSVE6fxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
