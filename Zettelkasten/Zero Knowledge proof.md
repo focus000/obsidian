@@ -23,7 +23,8 @@ application:
 
 pros:
 - transparency: do not need trust setup
-- scalability: 
+- scalability: generate proof faster
+- anti quantum attack
 
 ---
 # References
