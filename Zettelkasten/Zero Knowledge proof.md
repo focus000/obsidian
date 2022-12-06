@@ -26,5 +26,9 @@ pros:
 - scalability: generate proof faster
 - anti quantum attack
 
+cons:
+- not known as [[#zk-SNARK: Zero-Knowledge Succinct Non-Interactive Argument of Knowledge|zk-SNARK]]
+- 
+
 ---
 # References
