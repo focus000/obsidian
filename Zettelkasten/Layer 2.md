@@ -61,6 +61,7 @@ cons:
 
 - based on [[Zero Knowledge proof#zk-STARK: Scalable Transparent Arguments of Knowledge|zk-STARK]]
 - data store on chain: Rollup
+- data store off chain: [[zkPorter]], Volition
 
 ### Polygon
 
