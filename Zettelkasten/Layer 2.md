@@ -60,7 +60,7 @@ cons:
 #### StarkWare
 
 - based on [[Zero Knowledge proof#zk-STARK: Scalable Transparent Arguments of Knowledge|zk-STARK]]
-- 
+- data store on chain: Rollup
 
 ### Polygon
 
