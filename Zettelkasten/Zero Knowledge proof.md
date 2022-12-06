@@ -21,7 +21,9 @@ application:
 
 ## zk-STARK: Scalable Transparent Arguments of Knowledge
 
-- transparency
+pros:
+- transparency: do not need trust setup
+- scalability: 
 
 ---
 # References
