@@ -19,7 +19,9 @@ application:
 	- prove storage provider copied data
 	- prove they keep the data in time
 
-## zk-Stark
+## zk-STARK: Scalable Transparent Arguments of Knowledge
+
+- transparency
 
 ---
 # References
