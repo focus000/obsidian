@@ -29,7 +29,7 @@ pros:
 cons:
 - not known as [[#zk-SNARK: Zero-Knowledge Succinct Non-Interactive Argument of Knowledge|zk-SNARK]]
 - not has big community and ecosystem
-- not compatible EVM: need solidity contract -> [[Cairo]] contract -> gen  
+- not compatible EVM: need solidity contract -> [[Cairo]] contract -> gen STARK proof 
 
 ---
 # References
