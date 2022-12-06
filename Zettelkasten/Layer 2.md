@@ -8,6 +8,8 @@ Tags: [[blockchain]]
 
 Layer 2 is a solution to speed up L1, or called L1 scaling. We pertain not go down safety of blockchain or as L1.
 
+scale is burn 
+
 ## Rollup
 
 Pack transactions and Merkel tree root update to block, usually update in contract content tree, not execute transactions on chain. And rollup contract will update [[blockchain]] state. Although transactions store on chain, but light node no need download it, unless need verify the transaction.
