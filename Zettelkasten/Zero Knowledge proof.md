@@ -28,7 +28,8 @@ pros:
 
 cons:
 - not known as [[#zk-SNARK: Zero-Knowledge Succinct Non-Interactive Argument of Knowledge|zk-SNARK]]
-- not has big community and ecosystem 
+- not has big community and ecosystem
+- not campatble 
 
 ---
 # References
