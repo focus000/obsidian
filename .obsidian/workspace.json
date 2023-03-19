@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Bitcoin.md",
-                "mode": "preview",
+                "file": "Zettelkasten/AIGC overview.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Bitcoin.md"
+                "file": "Zettelkasten/AIGC overview.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Bitcoin.md",
+                "file": "Zettelkasten/AIGC overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,6 +139,8 @@
   },
   "active": "ee3e2e12ba2b334b",
   "lastOpenFiles": [
+    "Zettelkasten/Bitcoin.md",
+    "Zettelkasten/AIGC overview.md",
     "Templates/Core Zettel idea.md",
     "Zettelkasten/consensus.md",
     "Zettelkasten/Zero Knowledge proof.md",
@@ -147,7 +149,6 @@
     "Zettelkasten/Ethereum.md",
     "Zettelkasten/blockchain.md",
     "Zettelkasten/Blockchain Full Node Size Too Big.md",
-    "Zettelkasten/Bitcoin.md",
     "memos/2022-11-30.md",
     "Files/Pasted image 20221204011310.png"
   ]
