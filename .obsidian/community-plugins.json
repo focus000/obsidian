@@ -2,5 +2,6 @@
   "dataview",
   "obsidian-memos",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-textgenerator-plugin"
 ]
