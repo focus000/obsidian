@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35082065fbbaf30c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -126,6 +137,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -133,11 +147,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "ee3e2e12ba2b334b",
+  "active": "35082065fbbaf30c",
   "lastOpenFiles": [
     "Zettelkasten/Bitcoin.md",
     "Zettelkasten/AIGC overview.md",
