@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "35082065fbbaf30c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -150,7 +139,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "35082065fbbaf30c",
+  "active": "ee3e2e12ba2b334b",
   "lastOpenFiles": [
     "Zettelkasten/Bitcoin.md",
     "Zettelkasten/AIGC overview.md",
